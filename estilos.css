@@ -20,5 +20,6 @@ p.parrafo {
 }
 /*SELECTOR DE ID*/
 #TITULO {
-
+font-size: 5em;
+color: red;
 }
