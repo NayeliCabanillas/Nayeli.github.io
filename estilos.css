@@ -1,14 +1,17 @@
 /*CREADO POR NAYELI ALEJANDRA CABANILLAS HERNANDEZ - 75929723@CERTUS.EDU.PE*/
 /*SELECTOR DE ELEMENTOS*/
 h2 {
-    font-size: 4em;
+    font-size: 3em;
     color: cornsilk;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
 h1 {
-    font-size: 5em;
-    color: lightblue;
+    font-size: 4em;
+    color: rgba(160, 39, 39, 0.582);
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
+}
+p.parrafo {
+    
 }
