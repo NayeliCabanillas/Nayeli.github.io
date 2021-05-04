@@ -12,15 +12,23 @@ h1 {
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
 }
-/*SELECTOR DE CLASE*/
+/*SELECTOR DE CLASE* SE INVOCA CON EL NOMBRE: CLASS: "  "*/
 p.parrafo {
     color: rgb(12, 12, 12);
     font-style: italic; /*ESTILO DE FUENTE CURSIVA*/
     font-size: 1.5em;
 }
-/*SELECTOR DE ID*/
+/*SELECTOR DE ID* SE INVOCA CON EL NOMBRE: ID: " "*/
 #TITULO {
 font-size: 3em;
 color: rgba(255, 0, 0, 0.932);
 text-align: center;
+}
+/*VAMOS A APLICAR ESTILOS A LOS BOTONES*/
+.button {
+    background-color: rgb(139, 44, 44); /*COLOR DE FONDO DLE BOTON*/
+    color: rgb(254, 255, 253); /* COLOR DE LA FUENTE DE TEXTO*/
+    padding: 15px  32px; /*DIMENSIONES DEL BOTON*/ 
+    text-align: center; /*CENTRAMOS EL TEXTO DENTRO DEL BOTON*/
+    font-size: 15px; /*TAMAÑO DE LA FUENTE = TEXTO*/
 }
