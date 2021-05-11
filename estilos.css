@@ -32,3 +32,45 @@ text-align: center;
     text-align: center; /*CENTRAMOS EL TEXTO DENTRO DEL BOTON*/
     font-size: 15px; /*TAMAÑO DE LA FUENTE = TEXTO*/
 }
+/*AQUI LE DAMOS DIMENSION TOTAL DE ANCHO Y ALTURA*/
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0%
+}
+/*AQUI LE INDICAMOS AL HTML QUE LA DECCION TIENE DIMENSIONES
+ TODA LONGITUD DE LA PANTALLA*/
+section {
+    width: 100%;
+    height: 100%;
+    margin: 0%;
+    padding: 0;
+}
+/*ESTILOS PARA NUESTRO EFECTO PARALLAX FIXED - DEJA ESTATICA LA 
+IMAGEN EL NO-REPEAT EVITA REPETIR LA IMAGEN EN TODA LA PANTALLA 
+(IMAGENES PEQUEÑAS) Y EL 50% 50% PERMITE CENTRAR LA IMAGEN DE FONDO*/
+/*COVER = FONDO TIPO PORTADA*/
+.parallax {
+    background: fixed beige no-repeat 50% 50%;
+    background-size: cover;
+}
+/*AQUI ESTOY LLAMANDO LAS IMAGENES DE FONDO PARA CADA SECCIÓN*/
+#seccion01 {
+    background-image: url(img/salmon.jpg);
+    color:whitesmoke ;
+    font-family: monospace;
+    font-size: 200%;
+}
+#seccion02 {
+    background-color: rgb(245, 245, 245);
+    color: rgb(194, 41, 41);
+    font-family: cursive;
+    font-size: 350%;
+}
+#seccion03 {
+    background-image: url(img/mandos.jpg);
+    color: rgb(126, 179, 121);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 450%;
+}
