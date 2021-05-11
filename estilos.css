@@ -32,6 +32,7 @@ text-align: center;
     text-align: center; /*CENTRAMOS EL TEXTO DENTRO DEL BOTON*/
     font-size: 15px; /*TAMAÑO DE LA FUENTE = TEXTO*/
 }
+/*APLICAREMOS EL EFECTO PARALLAX*/
 /*AQUI LE DAMOS DIMENSION TOTAL DE ANCHO Y ALTURA*/
 html, body {
     width: 100%;
