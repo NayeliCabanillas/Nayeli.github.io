@@ -58,10 +58,10 @@ IMAGEN EL NO-REPEAT EVITA REPETIR LA IMAGEN EN TODA LA PANTALLA
 /*AQUI ESTOY LLAMANDO LAS IMAGENES DE FONDO PARA CADA SECCIÓN*/
 #seccion01 {
     background-image: url(img/mandos.jpg);
-    color:rgba(245, 156, 56, 0.76) ;
+    color:rgba(204, 53, 7, 0.76) ;
     font-family: monospace;
-    font-size: 200%;
-    font-weight: 300%;
+    font-size: 300%;
+    font-weight: bolder;
     text-align: center;
 }
 #seccion02 {
@@ -69,6 +69,7 @@ IMAGEN EL NO-REPEAT EVITA REPETIR LA IMAGEN EN TODA LA PANTALLA
     color: rgb(255, 255, 255);
     font-family: cursive;
     font-size: 150%;
+    font-weight: lighter;
     text-align: center;
 }
 #seccion03 {
@@ -76,5 +77,6 @@ IMAGEN EL NO-REPEAT EVITA REPETIR LA IMAGEN EN TODA LA PANTALLA
     color: rgb(0, 0, 0);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 250%;
+    font-weight: inherit;
     text-align: center;
 }
