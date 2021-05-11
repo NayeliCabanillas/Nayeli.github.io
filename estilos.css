@@ -68,15 +68,15 @@ IMAGEN EL NO-REPEAT EVITA REPETIR LA IMAGEN EN TODA LA PANTALLA
     background-color: coral;
     color: rgb(255, 255, 255);
     font-family: cursive;
-    font-size: 150%;
+    font-size: 250%;
     font-weight: lighter;
     text-align: center;
 }
 #seccion03 {
     background-image: url(img/principal.jpg);
-    color: rgb(0, 0, 0);
+    color: rgba(24, 27, 172, 0.87);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 250%;
+    font-size: 400%;
     font-weight: inherit;
     text-align: center;
 }
