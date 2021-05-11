@@ -57,20 +57,20 @@ IMAGEN EL NO-REPEAT EVITA REPETIR LA IMAGEN EN TODA LA PANTALLA
 }
 /*AQUI ESTOY LLAMANDO LAS IMAGENES DE FONDO PARA CADA SECCIÓN*/
 #seccion01 {
-    background-image: url(img/salmon.jpg);
+    background-image: url(img/mandos.jpg);
     color:whitesmoke ;
     font-family: monospace;
-    font-size: 200%;
+    font-size: 100%;
 }
 #seccion02 {
-    background-color: rgb(245, 245, 245);
+    background-color: coral;
     color: rgb(194, 41, 41);
     font-family: cursive;
-    font-size: 350%;
+    font-size: 150%;
 }
 #seccion03 {
-    background-image: url(img/mandos.jpg);
+    background-image: url(img/principal.jpg);
     color: rgb(126, 179, 121);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 450%;
+    font-size: 250%;
 }
