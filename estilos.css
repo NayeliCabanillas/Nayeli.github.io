@@ -57,7 +57,7 @@ IMAGEN EL NO-REPEAT EVITA REPETIR LA IMAGEN EN TODA LA PANTALLA
 }
 /*AQUI ESTOY LLAMANDO LAS IMAGENES DE FONDO PARA CADA SECCIÓN*/
 #seccion01 {
-    background-image: url(img/mandos.jpg);
+    background-image: url(img/principal.jpg);
     color:rgba(204, 53, 7, 0.76) ;
     font-family: monospace;
     font-size: 300%;
@@ -73,8 +73,8 @@ IMAGEN EL NO-REPEAT EVITA REPETIR LA IMAGEN EN TODA LA PANTALLA
     text-align: center;
 }
 #seccion03 {
-    background-image: url(img/principal.jpg);
-    color: rgba(24, 27, 172, 0.87);
+    background-image: url(img/kñ.jpg);
+    color: rgba(247, 247, 247, 0.87);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 400%;
     font-weight: inherit;
