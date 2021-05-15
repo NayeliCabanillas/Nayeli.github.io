@@ -18,11 +18,36 @@ h3 {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
+/*VAMOS A APLICAR ESTILO A LAS IMAGENES*/
+#contenedor_principal{
+    width:1024px;
+    height:auto;
+    position:relative;
+    margin:auto;
+    }
+.contenedor_imagen_texto{
+    width:335px;
+    height:auto;
+    position:relative;
+    display:inline-block;
+    vertical-align:top;
+    overflow:hidden;
+    }
+.imagen, .texto{
+    width:100%;
+    height:auto;
+    position:relative;
+    display:inline;
+    }
+.texto{
+    height:auto;
+    text-align:center
+    }
 /*SELECTOR DE CLASE* SE INVOCA CON EL NOMBRE: CLASS: "  "*/
 p.parrafo {
     color: rgb(12, 12, 12);
     font-style: italic; /*ESTILO DE FUENTE CURSIVA*/
-    font-size: 2em;
+    font-size: 1em;
     text-align: center;
 }
 /*SELECTOR DE ID* SE INVOCA CON EL NOMBRE: ID: " "*/
