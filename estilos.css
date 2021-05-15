@@ -7,7 +7,7 @@ h2 {
     font-family: 'Courier New', Courier, monospace;
 }
 h1 {
-    font-size: 4em;
+    font-size: 5em;
     color: rgb(255, 255, 255);
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
@@ -68,18 +68,10 @@ IMAGEN EL NO-REPEAT EVITA REPETIR LA IMAGEN EN TODA LA PANTALLA
     text-align: center;
 }
 #seccion02 {
-    background-color: coral;
+    background-image: url(img/mandos\ verdes.jpg);
     color: rgb(255, 255, 255);
     font-family: cursive;
     font-size: 250%;
     font-weight: lighter;
-    text-align: center;
-}
-#seccion03 {
-    background-image: url(img/kñ.jpg);
-    color: rgba(247, 247, 247, 0.87);
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 400%;
-    font-weight: inherit;
     text-align: center;
 }
