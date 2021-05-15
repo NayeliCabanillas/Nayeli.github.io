@@ -68,7 +68,7 @@ IMAGEN EL NO-REPEAT EVITA REPETIR LA IMAGEN EN TODA LA PANTALLA
     text-align: center;
 }
 #seccion02 {
-    background-color: rgba(218, 162, 142, 0.849);
+    background-image: url(img/seccion2.jpg);
     color: rgb(255, 255, 255);
     font-family: cursive;
     font-size: 250%;
