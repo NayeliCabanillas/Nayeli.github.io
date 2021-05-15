@@ -11,7 +11,7 @@ h1 {
     color: rgba(12, 12, 12, 0.582);
     text-align: center;
     font-family: fantasy;
-    font-weight: bolder;
+    font-weight: 900;
 }
 /*SELECTOR DE CLASE* SE INVOCA CON EL NOMBRE: CLASS: "  "*/
 p.parrafo {
