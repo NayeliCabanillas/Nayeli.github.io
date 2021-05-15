@@ -62,12 +62,12 @@ IMAGEN EL NO-REPEAT EVITA REPETIR LA IMAGEN EN TODA LA PANTALLA
     background-image: url(img/naranja.jpg);
     color:rgba(0, 0, 0, 0.76) ;
     font-family: monospace;
-    font-size: 100%;
+    font-size: 200%;
     font-weight: bolder;
     text-align: center;
     h1 {
         font-size: 3em;
-        color: rgb(255, 255, 255);
+        color:
         text-align: center;
         font-family: 'Times New Roman', Times, serif;
     }
