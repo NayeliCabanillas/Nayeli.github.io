@@ -8,9 +8,10 @@ h2 {
 }
 h1 {
     font-size: 4em;
-    color: rgba(160, 39, 39, 0.582);
+    color: rgba(12, 12, 12, 0.582);
     text-align: center;
     font-family: fantasy;
+    font-weight: bolder;
 }
 /*SELECTOR DE CLASE* SE INVOCA CON EL NOMBRE: CLASS: "  "*/
 p.parrafo {
