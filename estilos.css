@@ -8,7 +8,7 @@ h1 {
 }
 h2 {
     font-size: 2em;
-    color: cornsilk;
+    color: rgb(204, 113, 70);
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
@@ -54,7 +54,7 @@ p.parrafo {
 }
 /*SELECTOR DE ID* SE INVOCA CON EL NOMBRE: ID: " "*/
 #TITULO {
-font-size: 3em;
+font-size: 2em;
 color: rgba(255, 0, 0, 0.932);
 text-align: center;
 }
@@ -95,7 +95,7 @@ IMAGEN EL NO-REPEAT EVITA REPETIR LA IMAGEN EN TODA LA PANTALLA
     background-color: cornsilk;
     color:rgba(0, 0, 0, 0.76) ;
     font-family: monospace;
-    font-size: 200%;
+    font-size: 100%;
     font-weight: bolder;
     text-align: center;
 }
