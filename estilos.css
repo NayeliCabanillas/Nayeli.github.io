@@ -20,10 +20,12 @@ h3 {
 }
 /*VAMOS A APLICAR ESTILO A LAS IMAGENES*/
 #contenedor_principal{
-    width:1024px;
+    width: 1600px;
     height:auto;
     position:relative;
     margin:auto;
+    align-items: center;
+    right: 8%;
     }
 .contenedor_imagen_texto{
     width:335px;
