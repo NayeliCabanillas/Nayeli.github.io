@@ -8,7 +8,7 @@ h2 {
 }
 h1 {
     font-size: 3em;
-    color: rgb(255, 255, 255);
+    color: rgb(226, 65, 65);
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -65,12 +65,6 @@ IMAGEN EL NO-REPEAT EVITA REPETIR LA IMAGEN EN TODA LA PANTALLA
     font-size: 200%;
     font-weight: bolder;
     text-align: center;
-    h1 {
-        font-size: 3em;
-        color:
-        text-align: center;
-        font-family: 'Times New Roman', Times, serif;
-    }
 }
 
 #seccion02 {
