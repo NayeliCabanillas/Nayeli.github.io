@@ -17,6 +17,7 @@ p.parrafo {
     color: rgb(12, 12, 12);
     font-style: italic; /*ESTILO DE FUENTE CURSIVA*/
     font-size: 1.5em;
+    text-align: center;
 }
 /*SELECTOR DE ID* SE INVOCA CON EL NOMBRE: ID: " "*/
 #TITULO {
