@@ -2,13 +2,13 @@
 /*SELECTOR DE ELEMENTOS*/
 h1 {
     font-size: 3em;
-    color: rgb(226, 65, 65);
+    color: rgb(255, 255, 255);
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
 }
 h2 {
     font-size: 3em;
-    color: rgb(204, 113, 70);
+    color: rgb(253, 253, 253);
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
@@ -93,7 +93,6 @@ IMAGEN EL NO-REPEAT EVITA REPETIR LA IMAGEN EN TODA LA PANTALLA
 /*AQUI ESTOY LLAMANDO LAS IMAGENES DE FONDO PARA CADA SECCIÓN*/
 #seccion01 {
     background-image: url(img/seccion2.jpg);
-    color:rgba(0, 0, 0, 0.76) ;
     font-family: monospace;
     font-size: 150%;
     font-weight: bolder;
@@ -102,7 +101,6 @@ IMAGEN EL NO-REPEAT EVITA REPETIR LA IMAGEN EN TODA LA PANTALLA
 
 #seccion02 {
     background-image: url(img/seccion2.jpg);
-    color: rgb(255, 255, 255);
     font-family: cursive;
     font-size: 100%;
     font-weight: lighter;
@@ -110,7 +108,6 @@ IMAGEN EL NO-REPEAT EVITA REPETIR LA IMAGEN EN TODA LA PANTALLA
 }
 #seccion03 {
     background-image: url(img/naranja.jpg);
-    color: rgb(255, 255, 255);
     font-family: cursive;
     font-size: 200%;
     font-weight: lighter;
