@@ -48,7 +48,7 @@ h3 {
 /*SELECTOR DE CLASE* SE INVOCA CON EL NOMBRE: CLASS: "  "*/
 p.parrafo {
     color: rgb(12, 12, 12);
-    font-style: oblique; /*ESTILO DE FUENTE CURSIVA*/
+    font-style: initial; /*ESTILO DE FUENTE CURSIVA*/
     font-size: 1em;
     text-align: center;
 }
